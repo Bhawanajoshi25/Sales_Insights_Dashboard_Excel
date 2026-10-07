@@ -4,7 +4,7 @@ An interactive Excel dashboard analysing 1,000 orders from 2024 for an Australia
 
 **Tools:** Microsoft Excel (Excel Tables, XLOOKUP, VLOOKUP, TEXT, PivotTables, PivotCharts, Slicers)
 
-![Sales Insights Dashboard](dashboard.png)
+![Sales Insights Dashboard](Dashboard.png)
 
 ## Business Questions
 
