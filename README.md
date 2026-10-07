@@ -68,8 +68,8 @@ An interactive Excel dashboard analysing 1,000 orders from 2024 for an Australia
 
 | File | Description |
 |---|---|
-| `Sales_Dataset_with_Dashboard.xlsx` | Final workbook: raw data, `Clean_Data`, PivotTables and the **Dashboard** sheet |
-| `Insights_and_Recommendations.docx` | Written report of the cleaning process, insights and recommendations |
+| `Sales Dataset with Dashboard.xlsx` | Final workbook: raw data, `Clean_Data`, PivotTables and the **Dashboard** sheet |
+| `Insights and Recommendations.docx` | Written report of the cleaning process, insights and recommendations |
 | `Dashboard.png` | Screenshot of the dashboard |
 
 ## How to View
